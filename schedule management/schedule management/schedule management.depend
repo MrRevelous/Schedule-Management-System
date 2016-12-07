@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1437241435 source:c:\users\userx\desktop\schedule management\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string>
+	<iomanip>
+	<algorithm>
+	<windows.h>
+	<limits>
+	<cstdlib>
+
