@@ -1,4 +1,4 @@
-# School-Project
+# Schedule Mangement System
 This project was done as part of syllabus of class 12th Computer Science as requrired by CBSE.
 This program does Following:
 1. Holds the record of all teaching staff at an arbitrary school in bianry files.
